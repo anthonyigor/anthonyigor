@@ -1,6 +1,6 @@
 ## Olá, sejam bem vindos ao meu GitHub!
 
-### Me chamo Anthony Igor e sou um estudante apaixonado por programação e tecnologia. Por meio desse perfil desejo documentar a minha evolução nos estudos e projetos pessoais de programação.
+### Me chamo Anthony Igor e sou um dev apaixonado por programação e tecnologia. Por meio desse perfil desejo documentar a minha evolução nos estudos e projetos pessoais de programação.
 
 ## Estou aprendendo
 
